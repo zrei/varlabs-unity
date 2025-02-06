@@ -9,7 +9,7 @@
                     "name": "TriggerPress",
                     "type": "Button",
                     "id": "578a0cd6-f388-4fa3-92f3-c09338bdf6fc",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -18,7 +18,7 @@
                     "name": "TriggerTouch",
                     "type": "Button",
                     "id": "2db6bb09-543a-4892-bceb-974e887e7f6d",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -36,7 +36,7 @@
                     "name": "PrimaryButton",
                     "type": "Button",
                     "id": "204073bf-582e-48f4-a392-6eaf1e637387",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -810,7 +810,7 @@
                     "name": "TriggerPress",
                     "type": "Button",
                     "id": "bc163c5e-01a5-48ae-83b3-87e68f24f888",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -819,7 +819,7 @@
                     "name": "TriggerTouch",
                     "type": "Button",
                     "id": "60ad2555-a98c-4a74-abff-e47e7ac034af",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false

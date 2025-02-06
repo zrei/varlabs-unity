@@ -56,7 +56,7 @@ MonoBehaviour:
   - {fileID: 1763817136346132, guid: 0f3575c567ebe8241a4a6ad511fd7017, type: 3}
   - {fileID: 1724972533694550, guid: 63e523ab5d9ce7348b431ae1d689a54d, type: 3}
   - {fileID: 1125202155953082, guid: 573bb482e4baeec4386587db7cc07515, type: 3}
-  m_RotationSpeed: 2
+  m_RotationSpeed: 200
   m_Particle: {fileID: 6110790583332401992, guid: 5a2ce9f33162a7547971b28783b46141, type: 3}
 --- !u!65 &5201731042244527077
 BoxCollider:

@@ -20,7 +20,7 @@ public class FruitCollectible : MonoBehaviour
 
     private void Update()
     {
-        transform.Rotate(m_RotateDirection * m_RotationSpeed);
+        transform.Rotate(m_RotateDirection * m_RotationSpeed * Time.deltaTime);
     }
 
     public void OnScore()
