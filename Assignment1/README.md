@@ -16,3 +16,12 @@ Packages and assets used:
 * [Rock package](https://assetstore.unity.com/packages/3d/props/exterior/rock-package-118182) - for the rock models in the lake 
 * [Low-poly fruit pickups](https://assetstore.unity.com/packages/3d/props/food/low-poly-fruit-pickups-98135) - for the fruit models in part 2
 * Cinemachine - Virtual cameras in part 1
+
+Sounds and BGM:
+* [Classic Game Action Positive 30](https://pixabay.com/sound-effects/classic-game-action-positive-30-224562/) by floraphonic 
+* [Arcade UI 26](https://pixabay.com/sound-effects/arcade-ui-26-229495/) by floraphonic 
+* [Game Over Arcade](https://pixabay.com/sound-effects/game-over-arcade-6435/) by myfox14 
+* [Relaxing & Calming Evening Lake Water](https://pixabay.com/sound-effects/relaxing-amp-calming-evening-lake-water-176820/) by Prem_Adhikary 
+* [Retro Game Arcade](https://pixabay.com/music/video-games-retro-game-arcade-236133/) by moodmode 
+* [Springy bounce](https://pixabay.com/sound-effects/springy-bounce-86214/) by EagleStealthTeam 
+* [That Game Arcade Short](https://pixabay.com/music/video-games-that-game-arcade-short-236108/) by moodmode 
